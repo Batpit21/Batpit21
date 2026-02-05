@@ -22,21 +22,8 @@ Passionné par le développement logiciel et l'architecture système, je constru
 
 ---
 
-### 📊 Statistiques & Activité
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batpti21&show_icons=true&theme=terracotta&hide_border=true" alt="Stats de Batpti21" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batpti21&layout=compact&theme=terracotta&hide_border=true" alt="Langages les plus utilisés" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batpti21&theme=terracotta&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
 ### 🕹️ À propos de moi
-* 🔭 **En formation :** Je consolide actuellement mes connaissances en développement objet et gestion de bases de données à l'IUT de Montpellier.
+* 🔭 **En formation :** Je suis actuellement en BUT Informatique (parcours IAMSI) à l'IUT de Montpellier-Sète.
 * 🎮 **Loisirs :** Grand passionné de jeux vidéo, je m'intéresse de près aux mécaniques de gameplay et à l'optimisation technique.
 * 🌐 **Portfolio :** Retrouvez mes projets détaillés sur [baptiste.bradelet.fr](https://baptiste.bradelet.fr)
 
